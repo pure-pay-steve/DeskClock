@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskClock", "DeskClock\DeskClock\DeskClock.csproj", "{4A644BDF-A8BE-4210-8AA4-34719DFD1725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskClock.Desktop", "DeskClock\DeskClock.Desktop\DeskClock.Desktop.csproj", "{0E58E119-F218-4764-B30B-4E7942524D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A644BDF-A8BE-4210-8AA4-34719DFD1725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A644BDF-A8BE-4210-8AA4-34719DFD1725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A644BDF-A8BE-4210-8AA4-34719DFD1725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A644BDF-A8BE-4210-8AA4-34719DFD1725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E58E119-F218-4764-B30B-4E7942524D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E58E119-F218-4764-B30B-4E7942524D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E58E119-F218-4764-B30B-4E7942524D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E58E119-F218-4764-B30B-4E7942524D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67FA91B7-DB35-4B9B-95F7-5C348ABEBD08}
+	EndGlobalSection
+EndGlobal
